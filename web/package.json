@@ -148,7 +148,7 @@
     "remark-breaks": "4.0.0",
     "remark-directive": "4.0.0",
     "scheduler": "0.27.0",
-    "sharp": "0.34.5",
+    "sharp": "0.35.4",
     "sortablejs": "1.15.7",
     "std-semver": "1.0.8",
     "streamdown": "2.5.0",
