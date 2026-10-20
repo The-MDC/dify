@@ -242,7 +242,7 @@
     "vinext": "https://pkg.pr.new/vinext@b6a2cac",
     "vite": "npm:@voidzero-dev/vite-plus-core@0.1.13",
     "vite-plugin-inspect": "11.3.3",
-    "vite-plus": "0.1.13",
+    "vite-plus": "1.1.0",
     "vitest": "npm:@voidzero-dev/vite-plus-test@0.1.13",
     "vitest-canvas-mock": "1.1.3"
   },
